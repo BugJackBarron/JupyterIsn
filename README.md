@@ -5,4 +5,4 @@
 #Client Serveur
 
 * Fichiers textes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BugJackBarron/JupyterIsn/master?filepath=Fichiers_Textes.ipynb)
-* HTML et Python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BugJackBarron/JupyterIsn/master?filepath=HTML_Python.ipynb)
+* HTML et Python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BugJackBarron/JupyterIsn/master?filepath=HTML_Python.ipynb) ( Très ancien, ne pas faire )
